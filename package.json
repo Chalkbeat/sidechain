@@ -1,5 +1,5 @@
 {
-  "name": "@nprapps/sidechain",
+  "name": "@civicnews/sidechain",
   "version": "1.1.4",
   "description": "Responsive iframes built for modern browsers",
   "main": "dist/sidechain.js",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nprapps/sidechain.git"
+    "url": "https://github.com/chalkbeat/sidechain.git"
   },
   "devDependencies": {
     "rollup": "^1.0.0"
